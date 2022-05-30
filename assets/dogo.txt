@@ -1,0 +1,20 @@
+0 Chihuahua
+1 Japanese Spaniel
+2 Maltese
+3 papillon
+4 Terrier
+5 Afghan hound
+6 basset
+7 beagle
+8 BloodHound
+9 English Foxhound
+10 Italian GreyHound
+11 Saluki
+12 Scottish deerhound
+13 Border terrier
+14 Airdale
+15 Boston Bull
+16 Lahasa
+17 Golden retriever
+18 Labrador retriever
+19 English setter
